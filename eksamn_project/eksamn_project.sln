@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "eksamn_project.client", "eksamn_project.client\eksamn_project.client.esproj", "{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eksamn_project.Server", "eksamn_project.Server\eksamn_project.Server.csproj", "{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C1F0C7C-236F-4113-AACC-5BA0B3EB75FF}
+	EndGlobalSection
+EndGlobal

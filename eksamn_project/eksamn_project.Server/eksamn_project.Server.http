@@ -1,0 +1,6 @@
+@eksamn_project.Server_HostAddress = http://localhost:5148
+
+GET {{eksamn_project.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
