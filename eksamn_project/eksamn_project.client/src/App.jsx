@@ -1,51 +1,117 @@
 import { useEffect, useState } from 'react';
 import './App.css';
-
+import AmountOfChildren from './components/AmountOfChildren';
+import OverensKomst from './components/Overenskomst'
+import Forholds_valg from './components/Forholds_Valg';
+import Overview_Of_Choices from './components/OverviewOfChoises'
+import ResultPage from './components/ResultPage';
+import ArbejdsStatus from './components/ArbejdsStatus';
 function App() {
-    const [forecasts, setForecasts] = useState();
+    const [formData, setFormData] = useState({
+        
+        singleChild: false,
+        multiplechildren:false,
+        RelationshipStatus:'',
+        Arbejdsstatus:'',
+        OverEnskomst:false
+    });
 
-    useEffect(() => {
-        populateWeatherData();
-    }, []);
+    const [page, setpage] = useState(0);
+    const [result, setResult] = useState(null);
 
-    const contents = forecasts === undefined
-        ? <p><em>Loading... Please refresh once the ASP.NET backend has started. See <a href="https://aka.ms/jspsintegrationreact">https://aka.ms/jspsintegrationreact</a> for more details.</em></p>
-        : <table className="table table-striped" aria-labelledby="tableLabel">
-            <thead>
-                <tr>
-                    <th>Date</th>
-                    <th>Temp. (C)</th>
-                    <th>Temp. (F)</th>
-                    <th>Summary</th>
-                </tr>
-            </thead>
-            <tbody>
-                {forecasts.map(forecast =>
-                    <tr key={forecast.date}>
-                        <td>{forecast.date}</td>
-                        <td>{forecast.temperatureC}</td>
-                        <td>{forecast.temperatureF}</td>
-                        <td>{forecast.summary}</td>
-                    </tr>
-                )}
-            </tbody>
-        </table>;
+    const resultFetcher = async () => {
+        try {
+            console.log("I am inside the try part of resultfetcher");
+            console.log("here is object data: " + JSON.stringify(formData));
 
-    return (
-        <div>
-            <h1 id="tableLabel">Weather forecast</h1>
-            <p>This component demonstrates fetching data from the server.</p>
-            {contents}
-        </div>
-    );
-    
-    async function populateWeatherData() {
-        const response = await fetch('weatherforecast');
-        if (response.ok) {
-            const data = await response.json();
-            setForecasts(data);
+            const response = await fetch('https://localhost:7296/api/barsel', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(formData)
+            });
+
+            const isJson = response.headers.get('content-type')?.includes('application/json');
+            const data = isJson ? await response.json() : null;
+
+            if (!response.ok) {
+                const error = (data && data.message) || response.status;
+                throw new Error(error);
+            }
+
+            console.log("here is the response:", data);
+            setResult(data.calculatedBarsel);
+
+        } catch (error) {
+            console.error('No data',error)
         }
     }
+    useEffect(() => {
+        if (page === 5) {
+            console.log(formData)
+            resultFetcher();
+        }
+    },[page])
+    const nextpage = () => {
+        setpage(page + 1)
+    }
+    const previouspage = () => {setpage(page-1) }
+    return (
+        <div>
+            {
+                page === 0 && (
+                    <>
+                        <Forholds_valg formData={formData} setFormData={setFormData} />
+                        <button onClick={nextpage }>næste</button>
+                    </>
+                )
+            }
+            {
+                page === 1 && (
+                    <>
+                        <OverensKomst formData={formData} setFormData={setFormData} />
+                        <button onClick={previouspage }>tilbage</button>
+                        <button onClick={nextpage}>næste</button>
+                    </>
+                )
+            }
+            {
+                page === 2 && (
+                    <>
+                        <AmountOfChildren formData={formData} setFormData={setFormData} />
+                        <button onClick={previouspage}>tilbage</button>
+                        <button onClick={nextpage}>næste</button>
+                    </>
+                )
+            }
+            {
+                page === 3 && (
+                    <>
+                        <ArbejdsStatus formData={formData} setFormData={setFormData} />
+                        <button onClick={previouspage}>tilbage</button>
+                        <button onClick={nextpage}>næste</button>
+                    </>
+                )
+            }
+            {
+                page === 4 && (
+                    <>
+                        <Overview_Of_Choices formData={formData} />
+                        <button onClick={previouspage}>tilbage</button>
+                        <button onClick={nextpage}>næste</button>
+                    </>
+                )
+            }
+            {
+                page === 5 && (
+                    <>
+                        <ResultPage result={result} />
+                        <button onClick={previouspage}>tilbage</button>
+                    </>
+                )
+            }
+        </div>
+    )
 }
-
 export default App;

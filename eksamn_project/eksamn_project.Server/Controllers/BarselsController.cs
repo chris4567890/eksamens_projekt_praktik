@@ -1,5 +1,6 @@
 ﻿using eksamn_project.Server.Models;
 using Microsoft.AspNetCore.Mvc;
+using eksamn_project.Server.Services;
 namespace eksamn_project.Server.Controllers
 {
     [ApiController]
@@ -9,7 +10,9 @@ namespace eksamn_project.Server.Controllers
         [HttpPost]
         public IActionResult Post([FromBody] BarselModel model)
         {
-            var result = BarselsService.CalculateAmountOfBarsel(model);
+
+            BarselsService barselsService = new BarselsService();
+            var result = barselsService.CalculateAmountOfBarsel(model);
             return Ok(new { calculatedBarsel = result});
         }
     }

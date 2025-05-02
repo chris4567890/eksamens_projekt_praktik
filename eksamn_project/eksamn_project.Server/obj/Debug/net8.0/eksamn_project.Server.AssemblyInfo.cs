@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eksamn_project.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53ea70952402dc1df12d5f9385242b5f9d8e0aff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+214dc7a71be537a4656e07e1dabbf0373d56370c")]
 [assembly: System.Reflection.AssemblyProductAttribute("eksamn_project.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eksamn_project.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
