@@ -129,12 +129,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -145,8 +141,7 @@
               "RelativeToolTip": "eksamn_project.client\\src\\App.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-04-22T07:16:05.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T07:16:05.074Z"
             },
             {
               "$type": "Document",
@@ -158,8 +153,7 @@
               "RelativeToolTip": "eksamn_project.client\\src\\components\\Overenskomst.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-04-30T14:30:11.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T14:30:11.804Z"
             },
             {
               "$type": "Document",
@@ -171,8 +165,7 @@
               "RelativeToolTip": "eksamn_project.Server\\Controllers\\BarselsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T06:58:19.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T06:58:19.222Z"
             },
             {
               "$type": "Document",
@@ -194,7 +187,7 @@
               "RelativeDocumentMoniker": "eksamn_project.Server\\Services\\BarselsService.cs",
               "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Services\\BarselsService.cs",
               "RelativeToolTip": "eksamn_project.Server\\Services\\BarselsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T12:00:01.378Z",
               "EditorCaption": ""
@@ -233,8 +226,7 @@
               "RelativeToolTip": "eksamn_project.client\\src\\components\\Forholds_Valg.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-04-30T12:15:48.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T12:15:48.586Z"
             },
             {
               "$type": "Document",
@@ -246,8 +238,7 @@
               "RelativeToolTip": "eksamn_project.client\\src\\components\\OverviewOfChoises.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-04-30T14:16:35.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T14:16:35.305Z"
             },
             {
               "$type": "Document",
@@ -259,8 +250,7 @@
               "RelativeToolTip": "eksamn_project.client\\src\\components\\ResultPage.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-05-01T08:39:39.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T08:39:39.589Z"
             },
             {
               "$type": "Document",
@@ -272,8 +262,7 @@
               "RelativeToolTip": "eksamn_project.Server\\Models\\BarselModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T07:12:17.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T07:12:17.948Z"
             },
             {
               "$type": "Document",
@@ -502,6 +491,10 @@
               "ViewState": "AgIAAEEBAAAAAAAAAAAswE4BAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-05-01T12:13:14.498Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
