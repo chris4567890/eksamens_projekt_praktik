@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eksamn_project.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0ed7fc3e4b8cc26493080dda1af97de747d2e5e")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31cc0e124b4a846a8b75fb9de2204dc6494af66a")]
->>>>>>> barselshelper
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6c43ef13bdf058bea4c7155d1784c51cc5be40e")]
 [assembly: System.Reflection.AssemblyProductAttribute("eksamn_project.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eksamn_project.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
