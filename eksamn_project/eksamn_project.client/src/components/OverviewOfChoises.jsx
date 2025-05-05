@@ -3,8 +3,7 @@ function Overview_Of_Choices({ formData }) {
         <>
             <p>Opsumering af barsel</p>
             <p>forhold: {formData.RelationshipStatus}</p>
-            <p>enebarn: {formData.singleChild ? 'Ja' : 'Nej'}</p>
-            <p>flere børn: {formData.multiplechildren ? 'Ja' : 'Nej'}</p>
+            <p>antal af børn: {formData.AmountOfChildren}</p>
             <p>arbejdssted: {formData.Arbejdsstatus }</p>
             <p>overenskomst: {formData.OverEnskomst ? 'Ja' : 'Nej'}</p>
         </>

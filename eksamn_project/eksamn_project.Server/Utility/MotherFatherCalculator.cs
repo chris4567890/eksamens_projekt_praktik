@@ -2,7 +2,7 @@
 {
     public class MotherFatherCalculator
     {
-        public int calculate(string Relationship, bool Overnskomst, string Arbejdsstatus, bool Multiplechildren, bool SingleChild)
+        public int calculate(bool Overnskomst, string Arbejdsstatus, bool Multiplechildren, bool SingleChild, int AmountOfChildren)
         {
             if (Overnskomst && Arbejdsstatus == "offentlig")
             {

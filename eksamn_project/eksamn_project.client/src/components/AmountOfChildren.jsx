@@ -12,6 +12,13 @@ function AmountOfChildren({ formData, setFormData }) {
             ...formData,
             singleChild:false,
             multiplechildren: true
+            
+        });
+    }
+    const amount_children_data = (e) => {
+        setFormData({
+            ...formData,
+            AmountOfChildren: e.target.value
         });
     }
     return (
@@ -22,7 +29,7 @@ function AmountOfChildren({ formData, setFormData }) {
                 <label htmlFor="single_child">ene barn </label><br />
                 <input type="radio" name="amount_of_children" id="multiple_children" value="false" checked={formData.multiplechildren} onChange={multiple_child_data} required/>
                 <label htmlFor="multiple_children">flere børn</label>
-                <div> {formData.multiplechildren && (<div><input type="number" name="amount_of_children" min="1" defaultValue={1} /> <label htmlFor="amount_of_children">vælg antallet af børn</label> </div>)}</div>
+                <div> {formData.multiplechildren && (<div><input type="number" name="amount_of_children" min="1" defaultValue={1} onChange={amount_children_data } /> <label htmlFor="amount_of_children">vælg antallet af børn</label> </div>)}</div>
                
             </form>
         </div>

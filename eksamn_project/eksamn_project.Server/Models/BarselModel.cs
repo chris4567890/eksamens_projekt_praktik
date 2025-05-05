@@ -9,7 +9,6 @@ namespace eksamn_project.Server.Models
         public string RelationshipStatus { get; set; }
         public string Arbejdsstatus { get; set; }
         public bool OverEnskomst { get; set; }
-
         public int AmountOfChildren { get; set; }
         
     }

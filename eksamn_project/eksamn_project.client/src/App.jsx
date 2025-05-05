@@ -13,7 +13,8 @@ function App() {
         multiplechildren:false,
         RelationshipStatus:'',
         Arbejdsstatus:'',
-        OverEnskomst:false
+        OverEnskomst: false,
+        AmountOfChildren: 0
     });
 
     const [page, setpage] = useState(0);

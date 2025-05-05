@@ -10,7 +10,7 @@ namespace eksamn_project.Server.Services
         }
         public int CalculateAmountOfBarsel(BarselModel model) 
         {
-            int amountOfWeeks = _barselsHelper.CalculateBarsel(model.RelationshipStatus,model.OverEnskomst,model.Arbejdsstatus,model.multiplechildren,model.singleChild);
+            int amountOfWeeks = _barselsHelper.CalculateBarsel(model.RelationshipStatus,model.OverEnskomst,model.Arbejdsstatus,model.multiplechildren,model.singleChild,model.AmountOfChildren);
             return amountOfWeeks; 
         }
     }

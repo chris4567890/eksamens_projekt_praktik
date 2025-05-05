@@ -5,7 +5,7 @@ namespace eksamn_project.Server.Helpers
 {
     public class BarselsHelper
     {
-        public int CalculateBarsel(string Relationship,bool Overnskomst,string Arbejdsstatus,bool Multiplechildren,bool SingleChild)
+        public int CalculateBarsel(string Relationship,bool Overnskomst,string Arbejdsstatus,bool Multiplechildren,bool SingleChild, int AmountOfChildren)
         {
             SingleMomCalculator singleMomCalculator = new SingleMomCalculator();
             SingleFatherCalculator singleFatherCalculator = new SingleFatherCalculator();
@@ -15,15 +15,15 @@ namespace eksamn_project.Server.Helpers
             switch (Relationship)
             {
                 case "single_mother":
-                    return singleMomCalculator.calculate(Relationship,Overnskomst,Arbejdsstatus,Multiplechildren,SingleChild);    
+                    return singleMomCalculator.calculate(Overnskomst,Arbejdsstatus,Multiplechildren,SingleChild,AmountOfChildren);    
                 case "single_father":
-                    return singleFatherCalculator.calculate(Relationship, Overnskomst, Arbejdsstatus, Multiplechildren, SingleChild);
+                    return singleFatherCalculator.calculate(Overnskomst, Arbejdsstatus, Multiplechildren, SingleChild,AmountOfChildren);
                 case "mother_father":
-                    return motherFatherCalculator.calculate(Relationship,Overnskomst,Arbejdsstatus,Multiplechildren,SingleChild);
+                    return motherFatherCalculator.calculate(Overnskomst,Arbejdsstatus,Multiplechildren,SingleChild,AmountOfChildren);
                 case "mother_mother":
-                    return momMomCalculator.calculate(Relationship,Overnskomst,Arbejdsstatus,Multiplechildren,SingleChild);
+                    return momMomCalculator.calculate(Overnskomst,Arbejdsstatus,Multiplechildren,SingleChild,AmountOfChildren);
                 case "father_father":
-                    return fatherFatherCalculator.calculate(Relationship,Overnskomst,Arbejdsstatus,Multiplechildren,SingleChild);
+                    return fatherFatherCalculator.calculate(Overnskomst,Arbejdsstatus,Multiplechildren,SingleChild,AmountOfChildren);
                 default:
                     return 0;
             }
