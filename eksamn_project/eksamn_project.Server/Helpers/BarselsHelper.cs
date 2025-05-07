@@ -15,15 +15,15 @@ namespace eksamn_project.Server.Helpers
             switch (Relationship)
             {
                 case "single_mother":
-                    return singleMomCalculator.calculate(Overnskomst,Arbejdsstatus,Multiplechildren,SingleChild,AmountOfChildren);    
+                    return singleMomCalculator.calculate(Overnskomst,Arbejdsstatus);    
                 case "single_father":
-                    return singleFatherCalculator.calculate(Overnskomst, Arbejdsstatus, Multiplechildren, SingleChild,AmountOfChildren);
+                    return singleFatherCalculator.calculate(Overnskomst, Arbejdsstatus);
                 case "mother_father":
-                    return motherFatherCalculator.calculate(Overnskomst,Arbejdsstatus,Multiplechildren,SingleChild,AmountOfChildren);
+                    return motherFatherCalculator.calculate(Overnskomst,Arbejdsstatus);
                 case "mother_mother":
-                    return momMomCalculator.calculate(Overnskomst,Arbejdsstatus,Multiplechildren,SingleChild,AmountOfChildren);
+                    return momMomCalculator.calculate(Overnskomst,Arbejdsstatus);
                 case "father_father":
-                    return fatherFatherCalculator.calculate(Overnskomst,Arbejdsstatus,Multiplechildren,SingleChild,AmountOfChildren);
+                    return fatherFatherCalculator.calculate(Overnskomst,Arbejdsstatus);
                 default:
                     return 0;
             }

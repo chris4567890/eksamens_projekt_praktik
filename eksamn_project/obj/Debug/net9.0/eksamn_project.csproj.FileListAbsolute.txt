@@ -1,0 +1,5 @@
+C:\Users\starc\Documents\endelige_projekt\eksamn_project\obj\Debug\net9.0\eksamn_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\starc\Documents\endelige_projekt\eksamn_project\obj\Debug\net9.0\eksamn_project.AssemblyInfoInputs.cache
+C:\Users\starc\Documents\endelige_projekt\eksamn_project\obj\Debug\net9.0\eksamn_project.AssemblyInfo.cs
+C:\Users\starc\Documents\endelige_projekt\eksamn_project\obj\Debug\net9.0\eksamn_project.csproj.CoreCompileInputs.cache
+C:\Users\starc\Documents\endelige_projekt\eksamn_project\obj\Debug\net9.0\eksamn_project.sourcelink.json

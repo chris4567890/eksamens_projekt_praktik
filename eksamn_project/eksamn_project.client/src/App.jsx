@@ -107,7 +107,7 @@ function App() {
             {
                 page === 5 && (
                     <>
-                        <ResultPage result={result} />
+                        <ResultPage result={result} formData= {formData}/>
                         <button onClick={previouspage}>tilbage</button>
                     </>
                 )
