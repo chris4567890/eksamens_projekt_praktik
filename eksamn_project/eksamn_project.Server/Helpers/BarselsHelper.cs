@@ -5,7 +5,7 @@ namespace eksamn_project.Server.Helpers
 {
     public class BarselsHelper
     {
-        public int CalculateBarsel(string Relationship,bool Overnskomst,string Arbejdsstatus,bool Multiplechildren,bool SingleChild, int AmountOfChildren)
+        public int CalculateBarsel(string Relationship,int Overnskomst,string Arbejdsstatus,bool Multiplechildren,int AmountOfChildren,string Gender)
         {
             SingleMomCalculator singleMomCalculator = new SingleMomCalculator();
             SingleFatherCalculator singleFatherCalculator = new SingleFatherCalculator();

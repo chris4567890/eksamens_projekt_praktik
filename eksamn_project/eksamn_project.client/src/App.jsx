@@ -8,12 +8,11 @@ import ResultPage from './components/ResultPage';
 import ArbejdsStatus from './components/ArbejdsStatus';
 function App() {
     const [formData, setFormData] = useState({
-        
-        singleChild: false,
+        Gender:'',
         multiplechildren:false,
         RelationshipStatus:'',
         Arbejdsstatus:'',
-        OverEnskomst: false,
+        OverEnskomst: '',
         AmountOfChildren: 0
     });
 

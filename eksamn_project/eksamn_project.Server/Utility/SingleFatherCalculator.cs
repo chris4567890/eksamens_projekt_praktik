@@ -2,20 +2,20 @@
 {
     public class SingleFatherCalculator
     {
-        public int calculate(bool Overnskomst, string Arbejdsstatus)
+        public int calculate(int Overnskomst, string Arbejdsstatus)
         {
-            if (Overnskomst && Arbejdsstatus == "offentlig")
+            if (Overnskomst != null && Arbejdsstatus == "offentlig")
             {
 
-                return 36;
+                return 22 + Overnskomst;
             }
-            else if (Overnskomst && Arbejdsstatus == "privat")
+            else if (Overnskomst != null && Arbejdsstatus == "privat")
             {
-                return 36;
+                return 22 + Overnskomst;
             }
             else
             {
-                return 14;
+                return 22;
             }
         }
     }

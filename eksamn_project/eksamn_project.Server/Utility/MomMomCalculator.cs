@@ -2,16 +2,16 @@
 {
     public class MomMomCalculator
     {
-        public int calculate(bool Overnskomst, string Arbejdsstatus)
+        public int calculate(int Overnskomst, string Arbejdsstatus)
         {
-            if (Overnskomst && Arbejdsstatus == "offentlig")
+            if (Overnskomst != 0 && Arbejdsstatus == "offentlig")
             {
 
-                return 36;
+                return 22+Overnskomst;
             }
-            else if (Overnskomst && Arbejdsstatus == "privat")
+            else if (Overnskomst != 0 && Arbejdsstatus == "privat")
             {
-                return 36;
+                return 22+Overnskomst;
             }
             else
             {

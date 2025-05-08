@@ -2,8 +2,6 @@ function AmountOfChildren({ formData, setFormData }) {
     const single_child_data = () => {
         setFormData({
             ...formData,
-            
-            singleChild: true,
             multiplechildren: false,
             AmountOfChildren: 1
         });

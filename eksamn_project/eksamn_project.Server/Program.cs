@@ -1,5 +1,7 @@
 using eksamn_project.Server.Data;
 using eksamn_project.Server.Models;
+using eksamn_project.Server.Models.DTOs;
+using eksamn_project.Server.Services;
 using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +18,8 @@ builder.Services.AddCors(options =>
         .AllowAnyMethod();
     });
 });
+builder.Services.AddScoped<GenderDTO>();
+builder.Services.AddScoped<OverenskomstService>();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 

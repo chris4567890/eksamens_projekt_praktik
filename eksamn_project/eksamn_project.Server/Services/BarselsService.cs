@@ -1,16 +1,19 @@
 ﻿using eksamn_project.Server.Helpers;
 using eksamn_project.Server.Models;
+using eksamn_project.Server.Models.DTOs;
 namespace eksamn_project.Server.Services
 {
     public class BarselsService
     {
         private BarselsHelper _barselsHelper;
-        public BarselsService(BarselsHelper barselsHelper) {
+        private OverenskomstDTO _OverenskomstDTO;
+        public BarselsService(BarselsHelper barselsHelper, OverenskomstDTO overenskomstDTO) {
             _barselsHelper = barselsHelper;
+            _OverenskomstDTO = overenskomstDTO;
         }
         public int CalculateAmountOfBarsel(BarselModel model) 
         {
-            int amountOfWeeks = _barselsHelper.CalculateBarsel(model.RelationshipStatus,model.OverEnskomst,model.Arbejdsstatus,model.multiplechildren,model.singleChild,model.AmountOfChildren);
+            int amountOfWeeks = _barselsHelper.CalculateBarsel(model.RelationshipStatus, _OverenskomstDTO.MaternityAmountByWeeks,model.Arbejdsstatus,model.multiplechildren,model.AmountOfChildren,model.Gender);
             return amountOfWeeks; 
         }
     }

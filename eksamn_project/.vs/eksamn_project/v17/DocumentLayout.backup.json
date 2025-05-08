@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\overenskomst.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\src\\components\\overenskomst.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\services\\overenskomstservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\services\\overenskomstservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\controllers\\overnskomstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\controllers\\overnskomstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\controllers\\barselscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\controllers\\barselscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -15,68 +27,120 @@
       "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\eksamn_project.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\eksamn_project.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\eksamn_project.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\eksamn_project.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\helpers\\barselshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\helpers\\barselshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\models\\overenskomst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\models\\overenskomst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\eksamn_project.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\eksamn_project.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\services\\barselsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\services\\barselsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\utility\\singlemomcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\utility\\singlemomcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\models\\barselmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\models\\barselmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\amountofchildren.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\src\\components\\amountofchildren.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\arbejdsstatus.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\src\\components\\arbejdsstatus.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\models\\overenskomst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\models\\overenskomst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\models\\barselmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\models\\barselmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\models\\dtos\\overenskomstdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\models\\dtos\\overenskomstdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\models\\dtos\\genderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\models\\dtos\\genderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\forholds_valg.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\src\\components\\forholds_valg.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\resultpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\src\\components\\resultpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\amountofchildren.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\src\\components\\amountofchildren.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\utility\\singlefathercalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\utility\\singlefathercalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\overviewofchoises.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\src\\components\\overviewofchoises.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\utility\\fatherfathercalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\utility\\fatherfathercalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\helpers\\barselshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\helpers\\barselshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\utility\\singlemomcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\utility\\singlemomcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\utility\\mommomcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,20 +151,12 @@
       "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\utility\\motherfathercalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\utility\\singlefathercalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\utility\\singlefathercalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\SQLQuery5.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery5.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\services\\barselsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\services\\barselsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\controllers\\barselscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\controllers\\barselscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\forholds_valg.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\src\\components\\forholds_valg.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\SQLQuery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
@@ -118,32 +174,8 @@
       "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\overenskomst.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\src\\components\\overenskomst.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\overviewofchoises.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\src\\components\\overviewofchoises.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.server\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{FAC60860-9AE1-4AA4-A9A4-6162925BCBAA}|eksamn_project.Server\\eksamn_project.Server.csproj|solutionrelative:eksamn_project.server\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|solutionrelative:eksamn_project.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C4B44EF-4BF3-CC8D-13B0-728B31DED2E4}|eksamn_project.client\\eksamn_project.client.esproj|c:\\users\\starc\\documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\eksamn_project.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -163,14 +195,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\node_modules\\react\\cjs\\react-jsx-dev-runtime.development.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:eksamn_project.client\\node_modules\\react\\cjs\\react-jsx-dev-runtime.development.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\SQLQuery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -180,89 +204,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Program.cs",
-              "RelativeDocumentMoniker": "eksamn_project.Server\\Program.cs",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Program.cs",
-              "RelativeToolTip": "eksamn_project.Server\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAqwC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T07:18:32.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "eksamn_project.Server\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Properties\\launchSettings.json",
-              "RelativeToolTip": "eksamn_project.Server\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-01T12:06:40.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\appsettings.json",
               "RelativeDocumentMoniker": "eksamn_project.Server\\appsettings.json",
               "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\appsettings.json",
               "RelativeToolTip": "eksamn_project.Server\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-02T06:49:25.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "eksamn_project.Server\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "eksamn_project.Server\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T07:46:45.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "eksamn_project.Server.http",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\eksamn_project.Server.http",
-              "RelativeDocumentMoniker": "eksamn_project.Server\\eksamn_project.Server.http",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\eksamn_project.Server.http",
-              "RelativeToolTip": "eksamn_project.Server\\eksamn_project.Server.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-05-02T06:50:20.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "eksamn_project.Server.csproj",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\eksamn_project.Server.csproj",
-              "RelativeDocumentMoniker": "eksamn_project.Server\\eksamn_project.Server.csproj",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\eksamn_project.Server.csproj",
-              "RelativeToolTip": "eksamn_project.Server\\eksamn_project.Server.csproj",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBEAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-22T07:14:28.632Z",
+              "Title": "BarselsController.cs",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Controllers\\BarselsController.cs",
+              "RelativeDocumentMoniker": "eksamn_project.Server\\Controllers\\BarselsController.cs",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Controllers\\BarselsController.cs",
+              "RelativeToolTip": "eksamn_project.Server\\Controllers\\BarselsController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:58:19.222Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Overenskomst.jsx",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\Overenskomst.jsx",
+              "RelativeDocumentMoniker": "eksamn_project.client\\src\\components\\Overenskomst.jsx",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\Overenskomst.jsx",
+              "RelativeToolTip": "eksamn_project.client\\src\\components\\Overenskomst.jsx",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-30T14:30:11.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\appsettings.Development.json",
               "RelativeDocumentMoniker": "eksamn_project.Server\\appsettings.Development.json",
@@ -275,339 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Overenskomst.cs",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Models\\Overenskomst.cs",
-              "RelativeDocumentMoniker": "eksamn_project.Server\\Models\\Overenskomst.cs",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Models\\Overenskomst.cs",
-              "RelativeToolTip": "eksamn_project.Server\\Models\\Overenskomst.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T07:49:02.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "vite.config.js",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\vite.config.js",
-              "RelativeDocumentMoniker": "eksamn_project.client\\vite.config.js",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\vite.config.js",
-              "RelativeToolTip": "eksamn_project.client\\vite.config.js",
-              "ViewState": "AgIAACQAAAAAAAAAAAAqwD4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-22T07:17:30.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\index.html",
-              "RelativeDocumentMoniker": "eksamn_project.client\\index.html",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\index.html",
-              "RelativeToolTip": "eksamn_project.client\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-01T13:02:11.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "main.jsx",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\main.jsx",
-              "RelativeDocumentMoniker": "eksamn_project.client\\src\\main.jsx",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\main.jsx",
-              "RelativeToolTip": "eksamn_project.client\\src\\main.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-04-22T07:15:52.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "App.jsx",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\App.jsx",
-              "RelativeDocumentMoniker": "eksamn_project.client\\src\\App.jsx",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\App.jsx",
-              "RelativeToolTip": "eksamn_project.client\\src\\App.jsx",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAGwAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-04-22T07:16:05.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SingleMomCalculator.cs",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Utility\\SingleMomCalculator.cs",
-              "RelativeDocumentMoniker": "eksamn_project.Server\\Utility\\SingleMomCalculator.cs",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Utility\\SingleMomCalculator.cs",
-              "RelativeToolTip": "eksamn_project.Server\\Utility\\SingleMomCalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T09:06:41.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BarselModel.cs",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Models\\BarselModel.cs",
-              "RelativeDocumentMoniker": "eksamn_project.Server\\Models\\BarselModel.cs",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Models\\BarselModel.cs",
-              "RelativeToolTip": "eksamn_project.Server\\Models\\BarselModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T07:12:17.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ArbejdsStatus.jsx",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\ArbejdsStatus.jsx",
-              "RelativeDocumentMoniker": "eksamn_project.client\\src\\components\\ArbejdsStatus.jsx",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\ArbejdsStatus.jsx",
-              "RelativeToolTip": "eksamn_project.client\\src\\components\\ArbejdsStatus.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-05-01T12:32:15.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "FatherFatherCalculator.cs",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Utility\\FatherFatherCalculator.cs",
-              "RelativeDocumentMoniker": "eksamn_project.Server\\Utility\\FatherFatherCalculator.cs",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Utility\\FatherFatherCalculator.cs",
-              "RelativeToolTip": "eksamn_project.Server\\Utility\\FatherFatherCalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T09:08:16.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "BarselsHelper.cs",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Helpers\\BarselsHelper.cs",
-              "RelativeDocumentMoniker": "eksamn_project.Server\\Helpers\\BarselsHelper.cs",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Helpers\\BarselsHelper.cs",
-              "RelativeToolTip": "eksamn_project.Server\\Helpers\\BarselsHelper.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAlwBkAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T09:05:15.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AmountOfChildren.jsx",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\AmountOfChildren.jsx",
-              "RelativeDocumentMoniker": "eksamn_project.client\\src\\components\\AmountOfChildren.jsx",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\AmountOfChildren.jsx",
-              "RelativeToolTip": "eksamn_project.client\\src\\components\\AmountOfChildren.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-04-30T12:59:54.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ResultPage.jsx",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\ResultPage.jsx",
-              "RelativeDocumentMoniker": "eksamn_project.client\\src\\components\\ResultPage.jsx",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\ResultPage.jsx",
-              "RelativeToolTip": "eksamn_project.client\\src\\components\\ResultPage.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-05-01T08:39:39.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MomMomCalculator.cs",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Utility\\MomMomCalculator.cs",
-              "RelativeDocumentMoniker": "eksamn_project.Server\\Utility\\MomMomCalculator.cs",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Utility\\MomMomCalculator.cs",
-              "RelativeToolTip": "eksamn_project.Server\\Utility\\MomMomCalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T09:08:44.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "MotherFatherCalculator.cs",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Utility\\MotherFatherCalculator.cs",
-              "RelativeDocumentMoniker": "eksamn_project.Server\\Utility\\MotherFatherCalculator.cs",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Utility\\MotherFatherCalculator.cs",
-              "RelativeToolTip": "eksamn_project.Server\\Utility\\MotherFatherCalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T09:07:57.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "SingleFatherCalculator.cs",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Utility\\SingleFatherCalculator.cs",
-              "RelativeDocumentMoniker": "eksamn_project.Server\\Utility\\SingleFatherCalculator.cs",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Utility\\SingleFatherCalculator.cs",
-              "RelativeToolTip": "eksamn_project.Server\\Utility\\SingleFatherCalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T09:07:37.445Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BarselsService.cs",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Services\\BarselsService.cs",
-              "RelativeDocumentMoniker": "eksamn_project.Server\\Services\\BarselsService.cs",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Services\\BarselsService.cs",
-              "RelativeToolTip": "eksamn_project.Server\\Services\\BarselsService.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAASwAwAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T12:00:01.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "BarselsController.cs",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Controllers\\BarselsController.cs",
-              "RelativeDocumentMoniker": "eksamn_project.Server\\Controllers\\BarselsController.cs",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Controllers\\BarselsController.cs",
-              "RelativeToolTip": "eksamn_project.Server\\Controllers\\BarselsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T06:58:19.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Forholds_Valg.jsx",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\Forholds_Valg.jsx",
-              "RelativeDocumentMoniker": "eksamn_project.client\\src\\components\\Forholds_Valg.jsx",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\Forholds_Valg.jsx",
-              "RelativeToolTip": "eksamn_project.client\\src\\components\\Forholds_Valg.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAABzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-04-30T12:15:48.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "SQLQuery3.sql ",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\SQLQuery3.sql",
-              "RelativeDocumentMoniker": "SQLQuery3.sql",
-              "ToolTip": "SQLQuery3.sql ",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-06T07:18:05.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "SQLQuery1.sql ",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\SQLQuery1.sql",
-              "RelativeDocumentMoniker": "SQLQuery1.sql",
-              "ToolTip": "SQLQuery1.sql ",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-06T06:55:43.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Overenskomst.jsx",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\Overenskomst.jsx",
-              "RelativeDocumentMoniker": "eksamn_project.client\\src\\components\\Overenskomst.jsx",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\Overenskomst.jsx",
-              "RelativeToolTip": "eksamn_project.client\\src\\components\\Overenskomst.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-04-30T14:30:11.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\README.md",
-              "RelativeDocumentMoniker": "eksamn_project.client\\README.md",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\README.md",
-              "RelativeToolTip": "eksamn_project.client\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-05-01T13:02:04.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "OverviewOfChoises.jsx",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\OverviewOfChoises.jsx",
-              "RelativeDocumentMoniker": "eksamn_project.client\\src\\components\\OverviewOfChoises.jsx",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\OverviewOfChoises.jsx",
-              "RelativeToolTip": "eksamn_project.client\\src\\components\\OverviewOfChoises.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-04-30T14:16:35.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "hamzm1nh..sql",
-              "DocumentMoniker": "C:\\Users\\starc\\AppData\\Local\\Temp\\hamzm1nh..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\hamzm1nh..sql",
-              "ToolTip": "C:\\Users\\starc\\AppData\\Local\\Temp\\hamzm1nh..sql",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\hamzm1nh..sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-05T13:13:11.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "index.css",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\index.css",
-              "RelativeDocumentMoniker": "eksamn_project.client\\src\\index.css",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\index.css",
-              "RelativeToolTip": "eksamn_project.client\\src\\index.css",
-              "ViewState": "AgIAACgAAAAAAAAAAAAwwEQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-22T07:15:56.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "eslint.config.js",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\eslint.config.js",
-              "RelativeDocumentMoniker": "eksamn_project.client\\eslint.config.js",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\eslint.config.js",
-              "RelativeToolTip": "eksamn_project.client\\eslint.config.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-01T13:02:20.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 6,
               "Title": "CHANGELOG.md",
               "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\CHANGELOG.md",
               "RelativeDocumentMoniker": "eksamn_project.Server\\CHANGELOG.md",
@@ -620,20 +273,305 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "App.css",
-              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\App.css",
-              "RelativeDocumentMoniker": "eksamn_project.client\\src\\App.css",
-              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\App.css",
-              "RelativeToolTip": "eksamn_project.client\\src\\App.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-22T08:30:25.705Z",
+              "DocumentIndex": 2,
+              "Title": "OvernskomstController.cs",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Controllers\\OvernskomstController.cs",
+              "RelativeDocumentMoniker": "eksamn_project.Server\\Controllers\\OvernskomstController.cs",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Controllers\\OvernskomstController.cs",
+              "RelativeToolTip": "eksamn_project.Server\\Controllers\\OvernskomstController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwA0AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:49:46.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "eksamn_project.Server\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "eksamn_project.Server\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T07:46:45.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "eksamn_project.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "eksamn_project.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T12:06:40.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OverenskomstService.cs",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Services\\OverenskomstService.cs",
+              "RelativeDocumentMoniker": "eksamn_project.Server\\Services\\OverenskomstService.cs",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Services\\OverenskomstService.cs",
+              "RelativeToolTip": "eksamn_project.Server\\Services\\OverenskomstService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:30:40.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "eksamn_project.Server.http",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\eksamn_project.Server.http",
+              "RelativeDocumentMoniker": "eksamn_project.Server\\eksamn_project.Server.http",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\eksamn_project.Server.http",
+              "RelativeToolTip": "eksamn_project.Server\\eksamn_project.Server.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-02T06:50:20.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BarselsHelper.cs",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Helpers\\BarselsHelper.cs",
+              "RelativeDocumentMoniker": "eksamn_project.Server\\Helpers\\BarselsHelper.cs",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Helpers\\BarselsHelper.cs",
+              "RelativeToolTip": "eksamn_project.Server\\Helpers\\BarselsHelper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAlwBkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:05:15.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Program.cs",
+              "RelativeDocumentMoniker": "eksamn_project.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Program.cs",
+              "RelativeToolTip": "eksamn_project.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:18:32.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GenderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Models\\DTOs\\GenderDTO.cs",
+              "RelativeDocumentMoniker": "eksamn_project.Server\\Models\\DTOs\\GenderDTO.cs",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Models\\DTOs\\GenderDTO.cs",
+              "RelativeToolTip": "eksamn_project.Server\\Models\\DTOs\\GenderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:08:59.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BarselsService.cs",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Services\\BarselsService.cs",
+              "RelativeDocumentMoniker": "eksamn_project.Server\\Services\\BarselsService.cs",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Services\\BarselsService.cs",
+              "RelativeToolTip": "eksamn_project.Server\\Services\\BarselsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:00:01.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ArbejdsStatus.jsx",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\ArbejdsStatus.jsx",
+              "RelativeDocumentMoniker": "eksamn_project.client\\src\\components\\ArbejdsStatus.jsx",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\ArbejdsStatus.jsx",
+              "RelativeToolTip": "eksamn_project.client\\src\\components\\ArbejdsStatus.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-01T12:32:15.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "eksamn_project.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\eksamn_project.Server.csproj",
+              "RelativeDocumentMoniker": "eksamn_project.Server\\eksamn_project.Server.csproj",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\eksamn_project.Server.csproj",
+              "RelativeToolTip": "eksamn_project.Server\\eksamn_project.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T07:14:28.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "eksamn_project.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\App.jsx",
+              "RelativeToolTip": "eksamn_project.client\\src\\App.jsx",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAQwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-22T07:16:05.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Overenskomst.cs",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Models\\Overenskomst.cs",
+              "RelativeDocumentMoniker": "eksamn_project.Server\\Models\\Overenskomst.cs",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Models\\Overenskomst.cs",
+              "RelativeToolTip": "eksamn_project.Server\\Models\\Overenskomst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T07:49:02.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AmountOfChildren.jsx",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\AmountOfChildren.jsx",
+              "RelativeDocumentMoniker": "eksamn_project.client\\src\\components\\AmountOfChildren.jsx",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\AmountOfChildren.jsx",
+              "RelativeToolTip": "eksamn_project.client\\src\\components\\AmountOfChildren.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-30T12:59:54.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BarselModel.cs",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Models\\BarselModel.cs",
+              "RelativeDocumentMoniker": "eksamn_project.Server\\Models\\BarselModel.cs",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Models\\BarselModel.cs",
+              "RelativeToolTip": "eksamn_project.Server\\Models\\BarselModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:12:17.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OverenskomstDTO.cs",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Models\\DTOs\\OverenskomstDTO.cs",
+              "RelativeDocumentMoniker": "eksamn_project.Server\\Models\\DTOs\\OverenskomstDTO.cs",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Models\\DTOs\\OverenskomstDTO.cs",
+              "RelativeToolTip": "eksamn_project.Server\\Models\\DTOs\\OverenskomstDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:24:45.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\index.css",
+              "RelativeDocumentMoniker": "eksamn_project.client\\src\\index.css",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\index.css",
+              "RelativeToolTip": "eksamn_project.client\\src\\index.css",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-22T07:15:56.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "eksamn_project.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\main.jsx",
+              "RelativeToolTip": "eksamn_project.client\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-22T07:15:52.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\eslint.config.js",
+              "RelativeDocumentMoniker": "eksamn_project.client\\eslint.config.js",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\eslint.config.js",
+              "RelativeToolTip": "eksamn_project.client\\eslint.config.js",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-01T13:02:20.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\vite.config.js",
+              "RelativeDocumentMoniker": "eksamn_project.client\\vite.config.js",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\vite.config.js",
+              "RelativeToolTip": "eksamn_project.client\\vite.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-22T07:17:30.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\package-lock.json",
+              "RelativeDocumentMoniker": "eksamn_project.client\\package-lock.json",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\package-lock.json",
+              "RelativeToolTip": "eksamn_project.client\\package-lock.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T13:31:21.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "eksamn_project.client\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\Properties\\launchSettings.json",
+              "RelativeToolTip": "eksamn_project.client\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T13:30:57.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ResultPage.jsx",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\ResultPage.jsx",
+              "RelativeDocumentMoniker": "eksamn_project.client\\src\\components\\ResultPage.jsx",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\ResultPage.jsx",
+              "RelativeToolTip": "eksamn_project.client\\src\\components\\ResultPage.jsx",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-01T08:39:39.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "launch.json",
               "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\.vscode\\launch.json",
               "RelativeDocumentMoniker": "eksamn_project.client\\.vscode\\launch.json",
@@ -646,7 +584,182 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Forholds_Valg.jsx",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\Forholds_Valg.jsx",
+              "RelativeDocumentMoniker": "eksamn_project.client\\src\\components\\Forholds_Valg.jsx",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\Forholds_Valg.jsx",
+              "RelativeToolTip": "eksamn_project.client\\src\\components\\Forholds_Valg.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-30T12:15:48.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SQLQuery2.sql",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "SQLQuery2.sql",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\SQLQuery2.sql",
+              "RelativeToolTip": "SQLQuery2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-08T11:13:35.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SingleFatherCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Utility\\SingleFatherCalculator.cs",
+              "RelativeDocumentMoniker": "eksamn_project.Server\\Utility\\SingleFatherCalculator.cs",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Utility\\SingleFatherCalculator.cs",
+              "RelativeToolTip": "eksamn_project.Server\\Utility\\SingleFatherCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:07:37.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OverviewOfChoises.jsx",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\OverviewOfChoises.jsx",
+              "RelativeDocumentMoniker": "eksamn_project.client\\src\\components\\OverviewOfChoises.jsx",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\components\\OverviewOfChoises.jsx",
+              "RelativeToolTip": "eksamn_project.client\\src\\components\\OverviewOfChoises.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-30T14:16:35.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FatherFatherCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Utility\\FatherFatherCalculator.cs",
+              "RelativeDocumentMoniker": "eksamn_project.Server\\Utility\\FatherFatherCalculator.cs",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Utility\\FatherFatherCalculator.cs",
+              "RelativeToolTip": "eksamn_project.Server\\Utility\\FatherFatherCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:08:16.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SingleMomCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Utility\\SingleMomCalculator.cs",
+              "RelativeDocumentMoniker": "eksamn_project.Server\\Utility\\SingleMomCalculator.cs",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Utility\\SingleMomCalculator.cs",
+              "RelativeToolTip": "eksamn_project.Server\\Utility\\SingleMomCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAawAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:06:41.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MotherFatherCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Utility\\MotherFatherCalculator.cs",
+              "RelativeDocumentMoniker": "eksamn_project.Server\\Utility\\MotherFatherCalculator.cs",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Utility\\MotherFatherCalculator.cs",
+              "RelativeToolTip": "eksamn_project.Server\\Utility\\MotherFatherCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:07:57.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MomMomCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Utility\\MomMomCalculator.cs",
+              "RelativeDocumentMoniker": "eksamn_project.Server\\Utility\\MomMomCalculator.cs",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.Server\\Utility\\MomMomCalculator.cs",
+              "RelativeToolTip": "eksamn_project.Server\\Utility\\MomMomCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:08:44.666Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 37,
+              "Title": "SQLQuery5.sql",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\SQLQuery5.sql",
+              "RelativeDocumentMoniker": "SQLQuery5.sql",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\SQLQuery5.sql",
+              "RelativeToolTip": "SQLQuery5.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-08T08:54:36.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\index.html",
+              "RelativeDocumentMoniker": "eksamn_project.client\\index.html",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\index.html",
+              "RelativeToolTip": "eksamn_project.client\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-01T13:02:11.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SQLQuery3.sql",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\SQLQuery3.sql",
+              "RelativeDocumentMoniker": "SQLQuery3.sql",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\SQLQuery3.sql",
+              "RelativeToolTip": "SQLQuery3.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-06T07:18:05.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-06T06:55:43.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\README.md",
+              "RelativeDocumentMoniker": "eksamn_project.client\\README.md",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\README.md",
+              "RelativeToolTip": "eksamn_project.client\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-01T13:02:04.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "hamzm1nh..sql",
+              "DocumentMoniker": "C:\\Users\\starc\\AppData\\Local\\Temp\\hamzm1nh..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\hamzm1nh..sql",
+              "ToolTip": "C:\\Users\\starc\\AppData\\Local\\Temp\\hamzm1nh..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\hamzm1nh..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-05T13:13:11.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\App.css",
+              "RelativeDocumentMoniker": "eksamn_project.client\\src\\App.css",
+              "ToolTip": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\src\\App.css",
+              "RelativeToolTip": "eksamn_project.client\\src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-22T08:30:25.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\package.json",
               "RelativeDocumentMoniker": "eksamn_project.client\\package.json",
@@ -654,12 +767,11 @@
               "RelativeToolTip": "eksamn_project.client\\package.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-01T13:02:09.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T13:02:09.658Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 44,
               "Title": "eksamn_project.client.esproj",
               "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\eksamn_project.client.esproj",
               "RelativeDocumentMoniker": "eksamn_project.client\\eksamn_project.client.esproj",
@@ -672,7 +784,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 46,
               "Title": "vite.svg",
               "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\public\\vite.svg",
               "RelativeDocumentMoniker": "eksamn_project.client\\public\\vite.svg",
@@ -680,12 +792,11 @@
               "RelativeToolTip": "eksamn_project.client\\public\\vite.svg",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAP8SURBVDhPrZRdbJNVGMd/p33b9Qtqt9HZbe2woKxsbGDYpk5DQAkTFcQPjJgY44XGEI3GmBBMNNmVNxoWojei8VITgyzGCwgRyRjJZM5JlvERt0C3dVu3rt3bD7r3bc/xYt0o4CX/5Mn5/uc85/zOgfsppZS4u6\u002Bnp\u002BdYc3PzB6VxlFIrcwGQUpLP58lms71Hjhw5PDExEbvT4S719PSMSillsVj83ygUCnJ4eFgODg7K48eP/xyJRDaVr7eWNwC6uroOd3R0VEsFBSOFzF1GZL7DmP0Rc/o3AP6dNNne1oHT6Qzb7fb6qampy4lEInGPob39NdHY2n74aq6i\u002BvpUP2sL3\u002BCc/ZZC7AyITUgVpBC/yMQcNDzSjs/n01wu18bKysrglStXLqTT6fSyoRC4H93nCz33zudrAqFn2iI2\u002B66aY3hnTjM8vpVf9A8ZqzjElta9yLlRMqabC0M3GBoaQtd1q8/ni5w/f/6nVCoV0wAczXu8Dfvf/\u002BTp7fXvvrxlzLVdfkriWo7\u002B7FGuh19kwnBycWyGrHmDV/xNNLZuoB4/hmHg8XgYGRlZzdIC4O96r7Mjsu6Ng00Da9tyH4vF4TxTopvcugPYsuA2C4TW13Jprkhf8iHEmhDV1VUEAgG8Xi9Wq3WVAgtAQ8Bz4IXG0aoW8ysxP2jiavmBLY8d4OC2AK\u002B3VJOZnsNnr0C4nQwmbMznLaX9KChDC0AD2Lwu9dTj3u\u002BdmXEHX5ufMfmHDbPwD1IpFJJ8UaNKs2Cz2xifWyKZNqhd60ApQNxmFECrDWj2t1pO19uiY\u002BKc5QvlbtstwsrC8mxKpgrzloFhmCwVChSUKg0r1F0PQJu8GtqfHP\u002B1YiDzthoN7in\u002BefGadWuNSygpUUohlQIUQirqkLQGPfg99pLZna8IQFN67NXZm3VL54o7MbNKczttls5wtdhW58br0NDzJgM3kkSTOVCKoM\u002BFx6GtJLB8jmXS8pP5zmS24vf\u002BGW1zSEs11ITrxJnpHGeuz6IME82uUfRUkSy6WIgv8KxFYLPc/gJWUl6RpbAonHuPLh2Kzcx/eW10PHFzOq0M9xoIrUdsfJilugbiShCPJwg7CjzfXIPdunLL98p69E38Ox5Mhi/1X\u002B1rCNjMTMps1DPSPRlfJDGf4lZiAVt6kaYHND7auYFKtx2EWEVGCEE0GuXUqVMndF2PWdfXMhCbYVfEPrujLt43Eqhvde1\u002B4slGv63IJq9Ge62bfU1\u002BXtpai8OmLW\u002BjhAuAsFiIRifo7e09oev6vV9Zd3d3n5RSmqZZCkOaxnIYq7G0WpqmKc\u002BePSuDwWAbK2CXSyn118mTJztL9WV0SgiV95Wzp\u002Bv638DCnU73Sf8B3E0j/55GTsEAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-05-01T13:02:47.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T13:02:47.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 47,
               "Title": "globals.d.ts",
               "DocumentMoniker": "C:\\Users\\starc\\AppData\\Local\\Microsoft\\TypeScript\\5.2\\node_modules\\@types\\node\\globals.d.ts",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Microsoft\\TypeScript\\5.2\\node_modules\\@types\\node\\globals.d.ts",
@@ -693,12 +804,11 @@
               "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Microsoft\\TypeScript\\5.2\\node_modules\\@types\\node\\globals.d.ts",
               "ViewState": "AgIAAKIBAAAAAAAAAAAqwK0BAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-05-01T12:49:38.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T12:49:38.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 48,
               "Title": "react-jsx-dev-runtime.development.js",
               "DocumentMoniker": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\node_modules\\react\\cjs\\react-jsx-dev-runtime.development.js",
               "RelativeDocumentMoniker": "eksamn_project.client\\node_modules\\react\\cjs\\react-jsx-dev-runtime.development.js",
@@ -706,8 +816,7 @@
               "RelativeToolTip": "eksamn_project.client\\node_modules\\react\\cjs\\react-jsx-dev-runtime.development.js",
               "ViewState": "AgIAAEEBAAAAAAAAAAAswE4BAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-01T12:13:14.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T12:13:14.498Z"
             }
           ]
         }

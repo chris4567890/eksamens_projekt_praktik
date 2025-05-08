@@ -171,3 +171,4 @@ C:\Users\starc\Documents\endelige_projekt\eksamn_project\eksamn_project.Server\o
 C:\Users\starc\Documents\endelige_projekt\eksamn_project\eksamn_project.Server\obj\Debug\net8.0\eksamn_project.Server.pdb
 C:\Users\starc\Documents\endelige_projekt\eksamn_project\eksamn_project.Server\obj\Debug\net8.0\eksamn_project.Server.genruntimeconfig.cache
 C:\Users\starc\Documents\endelige_projekt\eksamn_project\eksamn_project.Server\obj\Debug\net8.0\ref\eksamn_project.Server.dll
+C:\Users\starc\Documents\endelige_projekt\eksamn_project\eksamn_project.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
