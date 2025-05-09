@@ -7,14 +7,23 @@ namespace eksamn_project.Server.Services
     {
         private BarselsHelper _barselsHelper;
         private OverenskomstDTO _OverenskomstDTO;
+        private OverenskomstService _OverenskomstService;
         public BarselsService(BarselsHelper barselsHelper, OverenskomstDTO overenskomstDTO) {
             _barselsHelper = barselsHelper;
             _OverenskomstDTO = overenskomstDTO;
         }
-        public int CalculateAmountOfBarsel(BarselModel model) 
+        public int CalculateAmountOfBarselWithOvernskomst(BarselModel model, int week) 
         {
-            int amountOfWeeks = _barselsHelper.CalculateBarsel(model.RelationshipStatus, _OverenskomstDTO.MaternityAmountByWeeks,model.Arbejdsstatus,model.multiplechildren,model.AmountOfChildren,model.Gender);
+            
+            int amountOfWeeks = _barselsHelper.CalculateBarsel(model.RelationshipStatus, week,model.Arbejdsstatus,model.multiplechildren,model.AmountOfChildren,model.Gender);
             return amountOfWeeks; 
         }
+
+        public int CalculateAmountOfBarsel(BarselModel model) 
+        {
+            int amountOfWeeks = _barselsHelper.CalculateBarsel(model.RelationshipStatus,0, model.Arbejdsstatus, model.multiplechildren, model.AmountOfChildren, model.Gender);
+            return amountOfWeeks;
+        }
+
     }
 }

@@ -26,8 +26,21 @@ namespace eksamn_project.Server.Controllers
             var overenkomst = await _overenskomstService.GetOvernsKomstByName(model.OverEnskomst);
             BarselsHelper barselsHelper = new BarselsHelper();
             BarselsService barselsService = new BarselsService(barselsHelper,overenkomst);
-            var result = barselsService.CalculateAmountOfBarsel(model);
-            return Ok(new { calculatedBarsel = result});
+            if(model.OverEnskomst != null && model.OverEnskomst != "")
+            {
+                var result = barselsService.CalculateAmountOfBarselWithOvernskomst(model, overenkomst.MaternityAmountByWeeks);
+                return Ok(new { calculatedBarsel = result });
+            }
+            else if(model.OverEnskomst == null)
+            {
+                var result = barselsService.CalculateAmountOfBarsel(model);
+                return Ok(new { calculatedBarsel = result });
+            }
+            else 
+            {  
+                return BadRequest(); 
+            }
+                
         }
     }
 }
