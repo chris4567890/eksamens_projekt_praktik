@@ -30,8 +30,9 @@ function App() {
                     'Content-Type': 'application/json'
                 },
                 body: JSON.stringify(formData)
+                
             });
-
+            
             const isJson = response.headers.get('content-type')?.includes('application/json');
             const data = isJson ? await response.json() : null;
 
@@ -39,7 +40,7 @@ function App() {
                 const error = (data && data.message) || response.status;
                 throw new Error(error);
             }
-
+            console.log("fetched data: "+data)
             console.log("here is the response:", data);
             setResult(data.calculatedBarsel);
 

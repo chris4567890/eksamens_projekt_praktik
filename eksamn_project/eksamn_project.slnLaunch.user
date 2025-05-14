@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "eksamn_project.client\\eksamn_project.client.esproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "eksamn_project.Server\\eksamn_project.Server.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

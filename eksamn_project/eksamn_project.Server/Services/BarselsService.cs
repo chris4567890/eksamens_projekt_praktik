@@ -3,7 +3,7 @@ using eksamn_project.Server.Models;
 using eksamn_project.Server.Models.DTOs;
 namespace eksamn_project.Server.Services
 {
-    public class BarselsService
+    public class BarselsService : IbarselsService
     {
         private BarselsHelper _barselsHelper;
         private OverenskomstDTO _OverenskomstDTO;

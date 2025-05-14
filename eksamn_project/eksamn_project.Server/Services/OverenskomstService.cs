@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace eksamn_project.Server.Services
 {
-    public class OverenskomstService
+    public class OverenskomstService : IoverenskomstService
     {
         private readonly AppDbContext _context;
 
@@ -33,7 +33,7 @@ namespace eksamn_project.Server.Services
             }
         }
 
-        public async Task<OverenskomstDTO> GetOvernsKomstByName( string name)
+        public async Task<OverenskomstDTO> GetOvernsKomstByName(string name)
         {
             var overnskomst = await _context.overenskomsts
                 .Where(o  => o.Name == name)

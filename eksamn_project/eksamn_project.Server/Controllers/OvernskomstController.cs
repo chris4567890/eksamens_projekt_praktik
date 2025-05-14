@@ -9,9 +9,9 @@ namespace eksamn_project.Server.Controllers
     [Route("api/overnskomst")]
     public class OvernskomstController : Controller
     {
-        private readonly OverenskomstService _overenskomstService;
+        private readonly IoverenskomstService _overenskomstService;
         private GenderDTO _genderDTO;
-        public OvernskomstController(OverenskomstService service, GenderDTO genderDTO) 
+        public OvernskomstController(IoverenskomstService service, GenderDTO genderDTO) 
         { 
             _overenskomstService = service;
             _genderDTO = genderDTO;

@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "B8uzup4qF5qoP/MVdem7JY0hJQSjeO0kFO3u2gr7q5E=",
+  "Source": "eksamn_project.Server",
+  "BasePath": "_content/eksamn_project.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\starc\\Documents\\endelige_projekt\\eksamn_project\\eksamn_project.client\\eksamn_project.client.esproj",
+      "Version": 2,
+      "Source": "eksamn_project.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

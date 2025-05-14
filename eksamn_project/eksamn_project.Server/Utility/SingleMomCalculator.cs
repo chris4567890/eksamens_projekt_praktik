@@ -8,7 +8,7 @@ namespace eksamn_project.Server.Utility
         {
             if (Overnskomst !=0 && Arbejdsstatus == "offentlig")
             {
-                return 36;
+                return 22+Overnskomst;
             }
 
             else if (Overnskomst == null && Arbejdsstatus == "offentlig")

@@ -1,7 +1,7 @@
 import { useState } from "react";
 function ShowResult({ result, formData }) {
     const [amountOfWeeks, setAmountOfWeeks] = useState(result);
-
+    console.log("here is result: "+result);
     function CalculateAmountOfWeeks() {
         if (amountOfWeeks > result) {
             setAmountOfWeeks(prev => prev - 1);

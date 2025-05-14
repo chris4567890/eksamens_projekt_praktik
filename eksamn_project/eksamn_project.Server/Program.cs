@@ -1,4 +1,5 @@
 using eksamn_project.Server.Data;
+using eksamn_project.Server.Helpers;
 using eksamn_project.Server.Models;
 using eksamn_project.Server.Models.DTOs;
 using eksamn_project.Server.Services;
@@ -6,20 +7,23 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
+builder.Services.AddScoped<IoverenskomstService, OverenskomstService>();
+builder.Services.AddScoped<OverenskomstDTO>();
+builder.Services.AddScoped<IbarselsService, BarselsService>();
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddCors(options =>
 {
     options.AddDefaultPolicy(policy => 
     {
-        policy.WithOrigins("https://localhost:5216")
+        policy.WithOrigins("https://localhost:7296", "https://localhost:5216")
         .AllowAnyHeader()
         .AllowAnyMethod();
     });
 });
+builder.Services.AddScoped<BarselsHelper>();
 builder.Services.AddScoped<GenderDTO>();
-builder.Services.AddScoped<OverenskomstService>();
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
